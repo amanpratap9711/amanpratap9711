@@ -34,7 +34,7 @@ Here are a few highlights from my GitHub:
 
 ## 🤝 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/aman-pratap-singh-baa0b7273)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/amanpratapsingh7273)
 
 - 📫 Email: (optional - add if you want to be contacted)
 
