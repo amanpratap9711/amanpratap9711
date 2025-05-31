@@ -28,7 +28,7 @@ Here are a few highlights from my GitHub:
 - 🤖 **[ML Model for Pizza Price Prediction](#)** – Built regression model to predict pizza prices based on ingredients and features.
 - 📈 **[EDA on COVID-19 Dataset](#)** – Performed deep exploratory analysis using Python.-->
 
-> Check out more on my [repositories page](https://github.com/amanpratap-singh?tab=repositories)!
+> Check out more on my [repositories page](https://github.com/amanpratap9711)
 
 ---
 
